@@ -9,8 +9,6 @@ This is a challenge in creating games to improve my skills.
  <img src="/images/image1.png" />
   </a>
   
-Press "space" or click to jump
-
 **Let's play : https://book1317.github.io/unity-tetris/**
 
 ## Other Projects
