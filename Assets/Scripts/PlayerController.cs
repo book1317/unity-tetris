@@ -11,6 +11,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         theLevel = FindObjectOfType<LevelController>();
+        //currentBlock = theLevel.theGenerate.GenerateBlock();
     }
 
     void Update()
